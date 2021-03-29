@@ -3,7 +3,7 @@
     ```
     make testfolder=./test/
     ```
-    input.txt: contains plain text.
-    key.txt: contains key in binary format.
-    cipher.txt: contains encrypted text in binary format.
-    output.txt: generated contains decrypted text.
+    * input.txt: contains plain text.
+    * key.txt: contains key in binary format.
+    * cipher.txt: contains encrypted text in binary format.
+    * output.txt: generated contains decrypted text.
